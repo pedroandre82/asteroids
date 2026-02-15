@@ -12,14 +12,14 @@ This project is a 2D space shooter where the player controls a ship and must avo
 
 ## Prerequisites
 
-- Python 3.10+
+- Python 3.13
 - Pygame
 
 ## Installation
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/asteroids.git
+   git clone https://github.com/pedroandre82/asteroids.git
    cd asteroids
     ```
 
