@@ -35,3 +35,4 @@ python3 main.py
 ```
 
 - Move: Arrow keys
+- Shoot: Space
